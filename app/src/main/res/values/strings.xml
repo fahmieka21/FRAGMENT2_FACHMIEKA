@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TUGASKE2</string>
+    <string name="action_setting">setting</string>
+    
+    <string name="hello_blank_fragment">Hello blank Fragment</string>
+    <string name="tittle_activity_second">Second Activity</string>
+    <string name="Klik_Tombol_ini">Klik Tombol Ini</string>
+    <string name="tampil_tombol">Tampilkan Detail</string>
+    <string name="di_sini_tampil">Di Sini Kami Memiliki Detail</string>
+        />
+</resources>
